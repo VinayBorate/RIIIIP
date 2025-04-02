@@ -157,11 +157,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** vinayborate121@gmail.com
+- **GitHub:** [yourusername](https://github.com/VinayBorate)
+- **Linkedin:** [VinayBorate](https://www.linkedin.com/in/vinayborate/)
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**. Feel free to modify and use it as needed!
 
