@@ -53,36 +53,71 @@ VTube is a full-stack OTT (Over the Top) platform that enables users to browse, 
 - **Razorpay Account** for payment gateway
 - **Cloudinary Account** for video storage
 
-### Steps:
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/VTube.git
-   cd VTube
+## Frontend Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/VinayBorate/V_Tube.git
+   ```
+2. Navigate into the project folder:
+   ```sh
+   cd V_Tube
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Create a `.env` file in the frontend directory and set the backend URL:
+   ```sh
+   VITE_BASE_URL=http://localhost:3000
+   ```
+5. Start the frontend development server:
+   ```sh
+   npm run dev
    ```
 
-2. **Install Dependencies:**
-   ```bash
-   npm install   # Install backend dependencies
-   cd client && npm install   # Install frontend dependencies
+---
+
+## Backend Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/VinayBorate/VTube_Backend.git
+   ```
+2. Navigate into the backend folder:
+   ```sh
+   cd VTube_Backend
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Create a `.env` file in the backend directory and set up the required environment variables:
+   ```sh
+   PORT=3000
+   DATABASE_URL=mongodb://localhost:27017/VtubeBackend
+
+   MAIL_HOST=smtp.gmail.com
+   MAIL_USER=vinaybbbb@gmail.com
+   MAIL_PASS=
+
+   JWT_SECRET=borate
+
+   # Cloudinary Configuration
+   CLOUD_NAME=
+   CLOUD_API_KEY=
+   CLOUD_API_SECRET=
+   CLOUD_FOLDER=
+
+   # Razorpay Configuration
+   RAZORPAY_KEY_ID=
+   RAZORPAY_KEY_SECRET=
+   ```
+5. Start the backend development server:
+   ```sh
+   npm run dev
    ```
 
-3. **Set Up Environment Variables:**
-   - Create a `.env` file in the root directory.
-   - Add the required credentials (MongoDB URI, JWT Secret, Razorpay keys, Cloudinary keys, etc.)
-
-4. **Run the Backend Server:**
-   ```bash
-   npm start
-   ```
-
-5. **Run the Frontend:**
-   ```bash
-   cd client
-   npm start
-   ```
-
-6. **Access the Application:**
-   - Visit `http://localhost:3000` in your browser.
 
 ---
 
