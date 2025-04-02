@@ -121,6 +121,34 @@ VTube is a full-stack OTT (Over the Top) platform that enables users to browse, 
 
 ---
 
+## Demo & Screenshots
+  
+- **Login Page** 
+ <img src="ReadmeImages/Comments.png" alt="Login Page">
+
+- **Signup Page** 
+  <img src="ReadmeImages/Signup.png" alt="Signup Page">
+
+- **OTP Page**
+<img src="ReadmeImages/OTP.png" alt="Login Page">
+
+- **Home Page**
+<img src="ReadmeImages/Home.png" alt="Home Page">
+<img src="ReadmeImages/ViewVideo.png" alt="ViewVideo Page">
+
+- **Dashboard Page**
+<img src="ReadmeImages/Upload.png" alt="Upload Page">
+<img src="ReadmeImages/UploadForm.png" alt="UploadForm Page">
+
+- **Plans Page**
+<img src="ReadmeImages/Plans.png" alt="Login Page">
+<img src="ReadmeImages/Payment.png" alt="Payment Page">
+<img src="ReadmeImages/PaymentSuccess.png" alt="PaymentSuccess Page">
+<img src="ReadmeImages/Paymentrazorpay.png" alt="PaymentRecive Page">
+
+
+---
+
 ## 🎯 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the platform.
 
