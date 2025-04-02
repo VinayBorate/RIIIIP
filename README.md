@@ -1,6 +1,6 @@
 # VTube – Over the Top (OTT) Platform
 *FrontendLink:* [Frontend](https://github.com/VinayBorate/V_Tube)  
-*BackendLink:* [Backend](https://github.com/VinayBorate/V_Tube)
+*BackendLink:* [Backend](https://github.com/VinayBorate/VTube_Backend)
 *ProjectDeployed Link:* [VTube](https://vtubebyvinay.netlify.app/) 
 ## 📌 Project Description
 VTube is a full-stack OTT (Over the Top) platform that enables users to browse, upload, and interact with videos based on their subscription plans. The platform is built using **React** for the frontend, **Node.js** and **Express** for the backend, and **MongoDB** for database management, ensuring a seamless and scalable video streaming experience.
