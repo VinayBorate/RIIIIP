@@ -124,7 +124,7 @@ VTube is a full-stack OTT (Over the Top) platform that enables users to browse, 
 ## Demo & Screenshots
   
 - **Login Page** 
- <img src="ReadmeImages/Comments.png" alt="Login Page">
+ <img src="ReadmeImages/Login.png" alt="Login Page">
 
 - **Signup Page** 
   <img src="ReadmeImages/Signup.png" alt="Signup Page">
@@ -135,6 +135,7 @@ VTube is a full-stack OTT (Over the Top) platform that enables users to browse, 
 - **Home Page**
 <img src="ReadmeImages/Home.png" alt="Home Page">
 <img src="ReadmeImages/ViewVideo.png" alt="ViewVideo Page">
+<img src="ReadmeImages/Comments.png" alt="Comments Page">
 
 - **Dashboard Page**
 <img src="ReadmeImages/Upload.png" alt="Upload Page">
